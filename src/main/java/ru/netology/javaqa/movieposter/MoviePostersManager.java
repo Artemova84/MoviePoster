@@ -1,3 +1,5 @@
+package ru.netology.javaqa.movieposter;
+
 public class MoviePostersManager {
     private MoviePosters[] items = new MoviePosters[0];
     private int limit;

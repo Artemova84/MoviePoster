@@ -1,3 +1,5 @@
+package ru.netology.javaqa.movieposter;
+
 public class MoviePosters {
     private String name;
     private String genre;
